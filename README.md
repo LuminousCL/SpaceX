@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/cooperation-SpaceX-orange)
 
 
-<img src="imgs/1.png" width="50%" height="50%">
+<img src="src/assets/images/demo.jpg" width="50%" height="50%">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
