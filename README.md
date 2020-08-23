@@ -1,3 +1,11 @@
+![Version](https://img.shields.io/badge/Version-1.0.1-blue)
+![Version](https://img.shields.io/badge/milestones-2-brightgreen)
+![Version](https://img.shields.io/badge/cooperation-SpaceX-orange)
+
+
+<img src="imgs/1.png" width="50%" height="50%">
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
